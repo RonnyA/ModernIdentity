@@ -7,11 +7,19 @@
 Welcome to Modern Identity for Developers
 =========================================
 
-Introduction Webinars
-    Here we introduce you to what Modern Identity means, Azure Active Directory and how yoy as a developer can start with our libraries.
+Welcome to the home page of this training program for developers.
 
-Deep dive webinars
-    Here we guide you as a developer - step by step - how to enable modern identity in your applications
+The program consists of two main parts
+
+* Introduction Webinars
+* Deep dive webinars
+
+The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
+* Azure Active Directory (AAD) - When you want to sell your solution to Enterprise customers
+* Azure Active Directory B2C (AAD B2C) - When you want to sell your solution to consumers (and in some cases also Enterprises)
+
+The second, and maybe the most important goal, is to make you able to integrate with Azure AD from your code.
+
 
 
 Introduction webinars
@@ -34,6 +42,7 @@ Here we introduce you to what Modern Identity means, Azure Active Directory and 
 
 Deep Dive Webinars
 ------------------
+
 Here we guide you as a developer - step by step - how to enable modern identity in your applications
 
   .. tip:: The links for signing up for the the Deep Dive webinars are not 
@@ -58,6 +67,7 @@ Here we guide you as a developer - step by step - how to enable modern identity 
 
 Source code samples
 -------------------
+
 Learn from studing source code and doing hands on training
    :doc:`Code samples and tutorials <code-samples/azure-samples>`
 
@@ -71,7 +81,9 @@ Learn from studing source code and doing hands on training
 
 Documentation
 -------------
+
 Links to documentation to learn and understand identity
+
    :doc:`Microsoft documentation <doc/microsoft-doc>`
    :doc:`Protocol specifictions <doc/protocols-rfc>`
 
@@ -94,10 +106,3 @@ Links to various videos that may prove useful for your training and upskilling
 
    video/microsoft-identity-youtube
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

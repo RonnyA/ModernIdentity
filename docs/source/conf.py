@@ -24,8 +24,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Modern Identity for Developers'
-copyright = '2020, Ronny Hansen MSFT'
-author = 'Ronny Hansen MSFT'
+copyright = '2020 Microsoft'
+author = 'Ronny.Hansen@Microsoft.com'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
