@@ -89,3 +89,9 @@ Links to various videos that may prove useful for your training and upskilling
    video/microsoft-identity-youtube
 
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
