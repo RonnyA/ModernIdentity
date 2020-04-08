@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to Modern Identity for Developers
 =========================================
 
@@ -35,6 +36,11 @@ Deep Dive Webinars
 ------------------
 Here we guide you as a developer - step by step - how to enable modern identity in your applications
 
+  .. tip:: The links for signing up for the the Deep Dive webinars are not 
+           yet available. Come back later and check for updates.
+
+
+
 * **Deep Dive webinars**:  
   :doc:`Overview <deep/overview>`
   :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`
@@ -53,7 +59,7 @@ Here we guide you as a developer - step by step - how to enable modern identity 
 Source code samples
 -------------------
 Learn from studing source code and doing hands on training
-   :doc:`<code-samples/azure-samples>`
+   :doc:`Code samples and tutorials <code-samples/azure-samples>`
 
 .. toctree::
    :maxdepth: 2

@@ -1,6 +1,12 @@
 Upcoming webinars
 =================
 
+
+  .. tip:: The links for signing up for the the Deep Dive webinars are not 
+           yet available. Come back later and check for updates.
+
+
+
 The deep dive topics will be held two times pr week - so you can choose which on fits your calendar best.
 
 Adding Authentication - Week 18
