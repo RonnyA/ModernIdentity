@@ -35,7 +35,7 @@ Here we guide you as a developer - step by step - how to enable modern identity 
 Source code samples
 -------------------
 Learn from studing source code and doing hands on training
-   :doc:` <code-samples/azure-samples>` |
+   :doc:`<code-samples/azure-samples>` |
 
 Documentation
 -------------

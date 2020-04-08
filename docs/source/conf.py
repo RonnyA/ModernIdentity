@@ -15,6 +15,12 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 
+import os
+import sys
+from configparser import RawConfigParser
+import sphinx_rtd_theme
+
+
 # -- Project information -----------------------------------------------------
 
 project = 'Modern Identity for Developers'
@@ -47,7 +53,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-html_theme_path = ["_themes", ]
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_logo = 'img/logo.png'
 html_theme_options = {
     'logo_only': True,
