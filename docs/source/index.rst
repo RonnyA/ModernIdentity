@@ -48,8 +48,6 @@ Here we guide you as a developer - step by step - how to enable modern identity 
   .. tip:: The links for signing up for the the Deep Dive webinars are not 
            yet available. Come back later and check for updates.
 
-
-
 * **Deep Dive webinars**:  
   :doc:`Overview <deep/overview>`
   :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`
@@ -105,4 +103,15 @@ Links to various videos that may prove useful for your training and upskilling
    :caption: Video training
 
    video/microsoft-identity-youtube
+
+Delivery Team
+--------------
+Information about the people delivering this developer training
+   :doc:`Delivery Team <team/delivery-team>`
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Delivery Team
+
+   team/delivery-team
 
