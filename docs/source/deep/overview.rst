@@ -1,5 +1,5 @@
-Deep Dive Webinars
-==================
+Webinar serie
+=============
 
 This series of webinars are a 6 week program where we each week introduce a new topic
 

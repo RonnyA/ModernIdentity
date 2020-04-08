@@ -1,7 +1,8 @@
-Upcomming webinars
-==================
+Upcoming webinars
+=================
 
 Modern Identity for Developers - April 15th 2020
 ------------------------------------------------
 
-Link to sign-up page
+Signup link https://www.microsoftevents.com/profile/10485873
+

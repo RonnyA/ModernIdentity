@@ -1,14 +1,15 @@
-Held webinars
-===========================
+Video training
+==============
 
 
-Modern Identity for Developers - March 30th 2020
-----------------------------------------------
+Identity Architecture Series
+----------------------------
 
-Link to PDF
+https://www.youtube.com/watch?v=bqlZL1yyoQI&list=PLLasX02E8BPCkqipgpNf9wHM07Kl1-Y8a
 
 
-Modern Identity for Developers - April 6th 2020
-----------------------------------------------
+Azure AD Authentication Fundamentals
+------------------------------------
 
-Link to PDF
+https://www.youtube.com/watch?v=fbSVgC8nGz4&list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy
+
