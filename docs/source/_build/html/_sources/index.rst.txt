@@ -15,6 +15,7 @@ The program consists of two main parts
 * Deep dive webinars
 
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
+
 * Azure Active Directory (AAD) - When you want to sell your solution to Enterprise customers
 * Azure Active Directory B2C (AAD B2C) - When you want to sell your solution to consumers (and in some cases also Enterprises)
 
