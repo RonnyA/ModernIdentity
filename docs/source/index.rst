@@ -64,6 +64,24 @@ Here we guide you as a developer - step by step - how to enable modern identity 
    deep/held-deep-webinars
 
 
+Related Webinars and training
+-----------------------------
+
+* **Related webinars**:  
+
+  :doc:`Overview <product-group/pg-overview>`
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Related webinars
+
+   product-group/pg-overview
+
+
+
 Source code samples
 -------------------
 

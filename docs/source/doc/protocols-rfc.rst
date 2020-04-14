@@ -4,7 +4,7 @@ Protocols - RFC & Standards
 
 OAuth 1.0
 ---------
-* RFC5849 - The OAuth 1.0 Protocol
+* RFC5849_ - The OAuth 1.0 Protocol
 
 .. _RFC5849 : https://tools.ietf.org/html/rfc5849
 
