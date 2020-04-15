@@ -28,7 +28,6 @@ DOCS
 
 * `Microsoft Identity Platform`__
 
-
 .. __ : https://docs.microsoft.com/en-us/azure/active-directory/develop/
 
 
@@ -50,8 +49,8 @@ TOOLS
 
 * `MSAL Libraries`__
 
-.. __ : https:/docs.microsoft.com/en-us/azure/active-directory/develop/reference-v2-libraries
-
+.. __ : https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-v2-libraries
+ 
 
 
 PRODUCT INFLUENCE
