@@ -103,6 +103,7 @@ Links to documentation to learn and understand identity
 
    :doc:`Microsoft documentation <doc/microsoft-doc>`
    :doc:`Protocol specifictions <doc/protocols-rfc>`
+   :doc:`Resources <doc/resources>`
 
 .. toctree::
    :maxdepth: 2
@@ -111,6 +112,7 @@ Links to documentation to learn and understand identity
 
    doc/microsoft-doc
    doc/protocols-rfc
+   doc/resources
 
 Video training
 --------------
