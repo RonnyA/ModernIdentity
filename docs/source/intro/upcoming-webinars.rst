@@ -7,8 +7,13 @@ Upcoming webinars
     :figwidth: 500px
     :target: ../_static/intro/modernid.png
 
-Modern Identity for Developers - April 15th 2020
-------------------------------------------------
+Modern Identity for Developers
+------------------------------
 
-Signup link https://www.microsoftevents.com/profile/10485873
+At the moment no upcoming webinars are planned for this "Introduction to Modern Identity".
+
+You can watch the recording of all the 3 webinars that has already been held under `Held webinars`__
+
+.. __ : https://modernidentity.readthedocs.io/en/latest/intro/held-webinars.html
+
 

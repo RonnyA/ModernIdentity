@@ -32,3 +32,17 @@ Download the `presentation`__ that was used in this webinar.
 
 .. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/Modern%20Identity%20for%20Developers-v2.pdf
 
+
+WEWC264 Modern Identity for Developers - April 15th 2020
+--------------------------------------------------------
+
+This webinar was a repeat of the March 30th webinar with some small changes
+
+* Sander was presenting together with me
+* Launching this website 
+
+Recording not YET available
+
+Download the `presentation`__ that was used in this webinar.
+
+.. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/Modern%20Identity%20for%20Developers-v3.pdf
