@@ -22,6 +22,9 @@ The first goal of this program is to make you able to understand the difference 
 The second, and maybe the most important goal, is to make you able to integrate with Azure AD from your code.
 
 
+  .. tip:: Look at "Related Webinars" for some extra deep dive training run by experts from Microsoft
+           
+
 
 Introduction webinars
 ---------------------
