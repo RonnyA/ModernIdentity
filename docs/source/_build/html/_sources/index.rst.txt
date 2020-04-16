@@ -95,7 +95,7 @@ Related Webinars and training
 Source code samples
 -------------------
 
-Learn from studing source code and doing hands on training
+Learn from studying source code and doing hands on training
    :doc:`Code samples and tutorials <code-samples/azure-samples>`
 
 .. toctree::
