@@ -12,7 +12,14 @@ Welcome to the home page of this training program for developers.
 The program consists of two main parts
 
 * Introduction Webinars
+
+      Watch the recording of the introduction webinar `WEWC264 Modern Identity for Developers - April 15th 2020`__
+
+.. __ : https://portal.meets4b.com/Join?e=f9626052-2fd4-4c09-9b5f-8876c5e78c71 
+
 * Deep dive webinars
+
+
 
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
 
