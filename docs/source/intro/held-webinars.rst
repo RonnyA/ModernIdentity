@@ -38,10 +38,12 @@ WEWC264 Modern Identity for Developers - April 15th 2020
 
 This webinar was a repeat of the March 30th webinar with some small changes
 
-* Sander was presenting together with me
+* Sander was presenting together with Ronny
 * Launching this website 
 
-Recording not YET available
+View the recording of WEWC264_
+
+.. _WEWC264 : https://portal.meets4b.com/Join?e=f9626052-2fd4-4c09-9b5f-8876c5e78c71 
 
 Download the `presentation`__ that was used in this webinar.
 
