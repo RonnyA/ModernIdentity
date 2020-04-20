@@ -19,6 +19,9 @@ The program consists of two main parts
 
 * Deep dive webinars
 
+      Register for the first deep dive webinar `Adding Authentication Monday 27th of March`__
+
+.. __ : https://www.microsoftevents.com/profile/10680034
 
 
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
@@ -56,8 +59,9 @@ Deep Dive Webinars
 
 Here we guide you as a developer - step by step - how to enable modern identity in your applications
 
-  .. tip:: The links for signing up for the the Deep Dive webinars are not 
-           yet available. Come back later and check for updates.
+  .. tip:: Not all the links for signing up for the the Deep Dive webinars are
+           available now. They will be added as soon as they are live.
+           Please come back later and check for updates.
 
 * **Deep Dive webinars**:  
   :doc:`Overview <deep/overview>`

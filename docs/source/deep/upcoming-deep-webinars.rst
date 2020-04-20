@@ -2,8 +2,9 @@ Upcoming webinars
 =================
 
 
-  .. tip:: The links for signing up for the the Deep Dive webinars are not 
-           yet available. Come back later and check for updates.
+  .. tip:: The first Deep Dive webinar registraton link is active! 
+           Links for signing up to the remaining Deep Dive webinars will be added as soon as they are availeble.
+           Please come back for updated information  
 
 
 
@@ -25,8 +26,11 @@ Agenda:
 * Q&A
 
 Monday April 27th 14:00-15:00
-    signup-link wil come here
+    
+    Signup here: https://www.microsoftevents.com/profile/10680034
+
 Thursday April 30th 14:00-15:00
+
     signup-link wil come here
 
 
