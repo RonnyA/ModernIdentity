@@ -31,8 +31,7 @@ Monday April 27th 14:00-15:00
 
 Thursday April 30th 14:00-15:00
 
-    signup here: https://www.microsoftevents.com/profile/10689173 
-    
+    signup-link wil come here
 
 
 Permission and Consent framework - Week 19
