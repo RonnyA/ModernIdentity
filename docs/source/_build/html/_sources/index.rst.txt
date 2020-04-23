@@ -24,6 +24,11 @@ The program consists of two main parts
 .. __ : https://www.microsoftevents.com/profile/10680034
 
 
+      Register for the first deep dive webinar (Repeat of Mondays) `Adding Authentication Thursday 30th of March`__
+
+.. __ : https://www.microsoftevents.com/profile/10689173 
+
+
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
 
 * Azure Active Directory (AAD) - When you want to sell your solution to Enterprise customers
