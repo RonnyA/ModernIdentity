@@ -27,11 +27,15 @@ Agenda:
 
 Monday April 27th 14:00-15:00
     
-    Signup here: https://www.microsoftevents.com/profile/10680034
+    Signup for WEWC463_
 
 Thursday April 30th 14:00-15:00
 
-    Signup here: https://www.microsoftevents.com/profile/10689173 
+    Signup for WEWC464_
+
+.. _WEWC463 : https://www.microsoftevents.com/profile/10680034
+
+.. _WEWC464 : https://www.microsoftevents.com/profile/10689173 
 
 
 Permission and Consent framework - Week 19
@@ -51,9 +55,14 @@ Agenda:
 * Q&A
 
 Monday May 4th 14:00-15:00
-    signup-link wil come here
+
+    signup for WEWC466_
+
 Thursday May 7th 14:00-15:00
+
     signup-link wil come here
+
+.. _WEWC466 : https://www.microsoftevents.com/profile/10708420
 
 Accessing and protecting API’s - Week 20
 ----------------------------------------
