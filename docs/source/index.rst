@@ -65,7 +65,7 @@ Deep Dive Webinars
 
 Here we guide you as a developer - step by step - how to enable modern identity in your applications
 
-  .. tip:: Registration for Deep Dive #1 and #2 is available
+  .. tip:: Registrations for Deep Dive #1 and #2 are available
 
   .. tip:: Not all the links for signing up for the the Deep Dive webinars are
            available now. They will be added as soon as they are live.
