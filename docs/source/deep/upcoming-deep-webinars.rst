@@ -82,9 +82,14 @@ Agenda:
 
 
 Monday May 11th 14:00-15:00
-    signup-link wil come here
+
+    signup for WEWC586_
+
 Thursday May 14th 14:00-15:00
+
     signup-link wil come here
+
+.. _WEWC586 : https://www.microsoftevents.com/profile/10619025
 
 
 Authorization  - Week 21
