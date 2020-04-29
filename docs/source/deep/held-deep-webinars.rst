@@ -19,6 +19,12 @@ Agenda:
 * Introduction to coding exercise
 * Q&A
 
+
+Download the `presentation`__ that was used in this webinar.
+
+.. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/DeepDive-1-Authentication.pdf
+
+
 Monday April 27th 14:00-15:00
     
     On Demand for WEWC463_
