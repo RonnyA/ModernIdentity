@@ -4,6 +4,9 @@
    contain the root `toctree` directive.
 
 
+.. tip:: We are sorry to announce that we had to move the Deep Dive Webinar series 2 weeks. Deep Dive #2 will continue in Week 21 
+         (not Week 19 as planned) Updated 30.04.2020 15:00 Ronny
+
 Welcome to Modern Identity for Developers
 =========================================
 
@@ -13,21 +16,19 @@ The program consists of two main parts
 
 * Introduction Webinars
 
-      Watch the recording of the introduction webinar `WEWC264 Modern Identity for Developers - April 15th 2020`__
+       Watch the recording of the introduction webinar `WEWC264 Modern Identity for Developers - April 15th 2020`__
 
 .. __ : https://portal.meets4b.com/Join?e=f9626052-2fd4-4c09-9b5f-8876c5e78c71 
 
+
 * Deep dive webinars
+  
+       Watch the recording of the Deep Dive webinar #1 `WEWC463 Adding Authentication - April 27th 2020`__
 
+.. __ : https://portal.meets4b.com/Join?e=e1b4f11b-4867-4246-beeb-0572c31e8423
 
-       `1. Adding Authentication Thursday 30th of March` WEWC464_ (A repeat of the webinar on Monday 27th)
-
-       `2. Permission and Consent framework Monday 4th of May` WEWC466_ 
-
-.. _WEWC464 : https://www.microsoftevents.com/profile/10689173 
-
-.. _WEWC466 : https://www.microsoftevents.com/profile/10708420
-
+       More information:
+       :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`
 
 
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are

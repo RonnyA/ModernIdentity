@@ -4,8 +4,8 @@ Held webinars
 
 
 
-Adding Authentication - Week 18
--------------------------------
+#1 Adding Authentication - Week 18
+----------------------------------
 
 In this deep dive webinar series for developers, we look how to add AZURE AD authentication to your app. First we introduce you to the important topics that are required to understand identity and authentication. After the theory and demos we will introduce you to some coding exercise that you can work on to further educate yourself in the form of "homework".
 
