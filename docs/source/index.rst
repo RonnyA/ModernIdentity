@@ -19,13 +19,15 @@ The program consists of two main parts
 
 * Deep dive webinars
 
-      Register for the first deep dive webinars
 
+       `1. Adding Authentication Thursday 30th of March` WEWC464_ (A repeat of the webinar on Monday 27th)
 
-       `Adding Authentication Thursday 30th of March` WEWC464_ (A repeat of the webinar on Monday 27th)
-
+       `2. Permission and Consent framework Monday 4th of May` WEWC466_ 
 
 .. _WEWC464 : https://www.microsoftevents.com/profile/10689173 
+
+.. _WEWC466 : https://www.microsoftevents.com/profile/10708420
+
 
 
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
