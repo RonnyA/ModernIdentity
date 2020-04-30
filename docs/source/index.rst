@@ -43,7 +43,7 @@ The second, and maybe the most important goal, is to make you able to integrate 
 
 Introduction webinars
 ---------------------
-Here we introduce you to what Modern Identity means, Azure Active Directory and how yoy as a developer can start with our libraries.
+Here we introduce you to what Modern Identity means, Azure Active Directory and how you as a developer can start with our libraries.
 
 * **Introduction webinars**:  
   :doc:`Upcoming webinars <intro/upcoming-webinars>`
