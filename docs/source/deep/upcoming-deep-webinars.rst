@@ -28,14 +28,8 @@ Monday April 27th 14:00-15:00
     
     On Demand WEWC463_
 
-Thursday April 30th 14:00-15:00
-
-    Signup for WEWC464_
 
 .. _WEWC463 : https://portal.meets4b.com/Join?e=e1b4f11b-4867-4246-beeb-0572c31e8423 
-
-
-.. _WEWC464 : https://www.microsoftevents.com/profile/10689173 
 
 
 
