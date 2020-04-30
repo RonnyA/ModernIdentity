@@ -27,13 +27,14 @@ Agenda:
 
 Monday April 27th 14:00-15:00
     
-    Signup for WEWC463_
+    On Demand WEWC463_
 
 Thursday April 30th 14:00-15:00
 
     Signup for WEWC464_
 
-.. _WEWC463 : https://www.microsoftevents.com/profile/10680034
+.. _WEWC463 : https://portal.meets4b.com/Join?e=e1b4f11b-4867-4246-beeb-0572c31e8423 
+
 
 .. _WEWC464 : https://www.microsoftevents.com/profile/10689173 
 
@@ -82,9 +83,14 @@ Agenda:
 
 
 Monday May 11th 14:00-15:00
-    signup-link wil come here
+
+    signup for WEWC586_
+
 Thursday May 14th 14:00-15:00
+
     signup-link wil come here
+
+.. _WEWC586 : https://www.microsoftevents.com/profile/10619025
 
 
 Authorization  - Week 21

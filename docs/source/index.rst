@@ -21,11 +21,9 @@ The program consists of two main parts
 
       Register for the first deep dive webinars
 
-       `Adding Authentication Monday 27th of March` WEWC463_
 
        `Adding Authentication Thursday 30th of March` WEWC464_ (A repeat of the webinar on Monday 27th)
 
-.. _WEWC463 : https://www.microsoftevents.com/profile/10680034
 
 .. _WEWC464 : https://www.microsoftevents.com/profile/10689173 
 
