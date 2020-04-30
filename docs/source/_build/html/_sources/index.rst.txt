@@ -4,8 +4,6 @@
    contain the root `toctree` directive.
 
 
-.. tip:: We are sorry to announce that we had to move the Deep Dive Webinar series 2 weeks. Deep Dive #2 will continue in Week 21 
-         (not Week 19 as planned) Updated 30.04.2020 15:00 Ronny
 
 Welcome to Modern Identity for Developers
 =========================================
@@ -66,7 +64,8 @@ Deep Dive Webinars
 
 Here we guide you as a developer - step by step - how to enable modern identity in your applications
 
-  .. tip:: Registrations for Deep Dive #1 and #2 are available
+  .. tip:: We are sorry to announce that we had to move the Deep Dive Webinar series 2 weeks. Deep Dive #2 will continue in Week 21 
+         (not Week 19 as planned) - Updated 30.04.2020 15:00
 
   .. tip:: Not all the links for signing up for the the Deep Dive webinars are
            available now. They will be added as soon as they are live.
