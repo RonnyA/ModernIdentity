@@ -32,6 +32,10 @@ The program consists of two main parts
 
        Sign up here https://www.microsoftevents.com/profile/10712885
 
+      #3 - Accessing and protecting API’s -  WEWC587 Thursday May 28th 14:00-15:00
+
+       Sign up here https://www.microsoftevents.com/profile/10791317  
+
       #4 -  Authorization - WEWC589 Thursday June 4th 14:00-15:00
 
        Sign up here https://www.microsoftevents.com/profile/10801900  
@@ -79,9 +83,6 @@ Here we guide you as a developer - step by step - how to enable modern identity 
   .. tip:: We are sorry to announce that we had to move the Deep Dive Webinar series 2 weeks. Deep Dive #2 will continue in Week 21 
          (not Week 19 as planned) - Updated 30.04.2020 15:00
 
-  .. tip:: Not all the links for signing up for the the Deep Dive webinars are
-           available now. They will be added as soon as they are live.
-           Please come back later and check for updates.
 
 * **Deep Dive webinars**:  
   :doc:`Overview <deep/overview>`
