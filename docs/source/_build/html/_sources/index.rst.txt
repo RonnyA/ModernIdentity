@@ -19,13 +19,25 @@ The program consists of two main parts
 .. __ : https://portal.meets4b.com/Join?e=f9626052-2fd4-4c09-9b5f-8876c5e78c71 
 
 
-* Deep dive webinars
-  
-       Watch the recording of the Deep Dive webinar #1 `WEWC463 Adding Authentication - April 27th 2020`__
+* Deep dive webinars - On demand
+   
+       Deep Dive webinar `#1 - WEWC463 Adding Authentication`__
 
 .. __ : https://portal.meets4b.com/Join?e=e1b4f11b-4867-4246-beeb-0572c31e8423
+      
 
-       More information:
+* Sign up for upcomming deep dive webinars 
+   
+      #2 - Permission and Consent framework - WEWC467 Wednsday May 20th 14:00-15:00
+
+       Sign up here https://www.microsoftevents.com/profile/10712885
+
+      #4 -  Authorization - WEWC589 Thursday June 4th 14:00-15:00
+
+       Sign up here https://www.microsoftevents.com/profile/10801900  
+
+ * More information:
+
        :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`
 
 
