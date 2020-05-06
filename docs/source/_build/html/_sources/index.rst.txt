@@ -40,6 +40,10 @@ The program consists of two main parts
 
        Sign up here https://www.microsoftevents.com/profile/10801900  
 
+      #5 - Azure Active Directory B2C - WEWC592 Thursday June 11th 14:00-15:00
+
+       Sign up here https://www.microsoftevents.com/profile/10804579 
+       
  * More information:
 
        :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`

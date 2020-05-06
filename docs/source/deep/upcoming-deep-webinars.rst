@@ -96,9 +96,9 @@ Agenda:
 * Q&A
 
 
-WEWC593 Thursday June 11th 14:00-15:00
+WEWC592 Thursday June 11th 14:00-15:00
 
-    signup-link wil come *here*
+    Sign up here https://www.microsoftevents.com/profile/10804579 
 
 
 
