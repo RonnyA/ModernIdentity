@@ -116,7 +116,7 @@ Agenda:
 * Q&A
 
 
-Thursday June 18th 14:00-15:00
+WEWC590 Thursday June 18th 14:00-15:00
 
-    signup-link wil come *here*
+    Sign up here https://www.microsoftevents.com/profile/10815352 
 

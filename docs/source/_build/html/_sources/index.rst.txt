@@ -43,7 +43,12 @@ The program consists of two main parts
       #5 - Azure Active Directory B2C - WEWC592 Thursday June 11th 14:00-15:00
 
        Sign up here https://www.microsoftevents.com/profile/10804579 
-       
+
+      #6 - Best practices for securing your services - WEWC590 Thursday June 18th 14:00-15:00
+
+       Sign up here https://www.microsoftevents.com/profile/10815352 
+
+
  * More information:
 
        :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`
