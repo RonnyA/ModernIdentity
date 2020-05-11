@@ -32,17 +32,17 @@ The program consists of two main parts
 
        Sign up here https://www.microsoftevents.com/profile/10712885
 
-      #3 - Accessing and protecting API’s -  WEWC587 Thursday May 28th 14:00-15:00
+      #3 - Accessing and protecting API’s -  WEWC586 Thursday May 28th 14:00-15:00
 
-       Sign up here https://www.microsoftevents.com/profile/10791317  
+       Sign up here https://www.microsoftevents.com/profile/10619025  
 
       #4 -  Authorization - WEWC589 Thursday June 4th 14:00-15:00
 
        Sign up here https://www.microsoftevents.com/profile/10801900  
 
-      #5 - Azure Active Directory B2C - WEWC592 Thursday June 11th 14:00-15:00
+      #5 - Azure Active Directory B2C - WEWC593 Thursday June 11th 14:00-15:00
 
-       Sign up here https://www.microsoftevents.com/profile/10804579 
+       Sign up here 
 
       #6 - Best practices for securing your services - WEWC590 Thursday June 18th 14:00-15:00
 

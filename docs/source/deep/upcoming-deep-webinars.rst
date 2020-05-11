@@ -57,9 +57,9 @@ Agenda:
 * Q&A
 
 
-WEWC587 Thursday May 28th 14:00-15:00
+WEWC586 Thursday May 28th 14:00-15:00
 
-    Sign up here https://www.microsoftevents.com/profile/10791317  
+    Sign up here https://www.microsoftevents.com/profile/10619025  
 
 
 #4 Authorization  - Week 23
@@ -96,9 +96,9 @@ Agenda:
 * Q&A
 
 
-WEWC592 Thursday June 11th 14:00-15:00
+WEWC593 Thursday June 11th 14:00-15:00
 
-    Sign up here https://www.microsoftevents.com/profile/10804579 
+    Sign up here 
 
 
 
