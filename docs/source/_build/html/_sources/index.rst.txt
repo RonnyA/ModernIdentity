@@ -42,7 +42,7 @@ The program consists of two main parts
 
       #5 - Azure Active Directory B2C - WEWC593 Thursday June 11th 14:00-15:00
 
-       Sign up here 
+       Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
 
       #6 - Best practices for securing your services - WEWC590 Thursday June 18th 14:00-15:00
 

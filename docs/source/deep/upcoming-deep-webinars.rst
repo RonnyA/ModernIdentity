@@ -98,7 +98,7 @@ Agenda:
 
 WEWC593 Thursday June 11th 14:00-15:00
 
-    Sign up here 
+    Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
 
 
 
