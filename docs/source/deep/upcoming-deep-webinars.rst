@@ -10,16 +10,6 @@ Upcoming webinars
            to view On-Demand later.
 
 
-2 weeks of space - Week 19 and Week 20
---------------------------------------
-
-We recomend you spend the newly added time between #1 and #2 to read our doucumentation or play around with the samples.
-
-https://docs.microsoft.com/en-gb/azure/active-directory/develop/
-
-
-
-
 
 #3 Accessing and protecting API’s - Week 22
 -------------------------------------------
