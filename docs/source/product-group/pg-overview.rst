@@ -9,6 +9,8 @@ Given the COVID-19 situation, we understand how rapidly your digital space is ev
 
 At the end of the training you should have a deeper understanding of custom policies and all the resources will be shared here
 
+*Available on demand, follow the link above*
+
 * `Virtual End-to-End Microsoft Security Bootcamp 28th April-30th April`__
 
 .. __ : https://learning.eventbuilder.com/SecurityBootcamp

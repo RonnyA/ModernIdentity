@@ -1,16 +1,6 @@
 Upcoming webinars
 =================
 
-
-  .. tip:: We had to move the Deep Dive Webinar series 2 weeks back. Deep Dive #2 will continue in Week 21 (not Week 19 as planned)
-
-
-  .. tip:: Originally we had planned to run the webinars 2 times pr week, 
-           but decided to run it only once pr week. You always have the option 
-           to view On-Demand later.
-
-
-
 #3 Accessing and protecting API’s - Week 22
 -------------------------------------------
 
