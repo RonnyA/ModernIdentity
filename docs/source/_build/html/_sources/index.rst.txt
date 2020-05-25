@@ -25,13 +25,14 @@ The program consists of two main parts
 
 .. __ : https://portal.meets4b.com/Join?e=e1b4f11b-4867-4246-beeb-0572c31e8423
       
+       Deep Dive webinar `#2 - WEWC467 Permission and Consent framework`__
+
+.. __ : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
+
+
 
 * Sign up for upcomming deep dive webinars 
    
-      #2 - Permission and Consent framework - WEWC467 Wednsday May 20th 14:00-15:00
-
-       Sign up here https://www.microsoftevents.com/profile/10712885
-
       #3 - Accessing and protecting API’s -  WEWC586 Thursday May 28th 14:00-15:00
 
        Sign up here https://www.microsoftevents.com/profile/10619025  
