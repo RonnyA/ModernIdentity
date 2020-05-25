@@ -20,12 +20,9 @@ The program consists of two main parts
 
 
 * Deep dive webinars - On demand
-   
-       Deep Dive webinar `#1 - WEWC463 Adding Authentication`__
 
-.. __ : https://portal.meets4b.com/Join?e=e1b4f11b-4867-4246-beeb-0572c31e8423
+   For presentations and On Demand see under :doc:`Webinars held <deep/held-deep-webinars>`
       
-       Deep Dive webinar `#2 - WEWC467 Permission and Consent framework`__
 
 .. __ : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
 
