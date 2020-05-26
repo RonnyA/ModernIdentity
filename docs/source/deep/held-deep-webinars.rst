@@ -55,6 +55,11 @@ Agenda:
 * Introduction to coding exercise
 * Q&A
 
+Download the `presentation`__ that was used in this webinar.
+
+.. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/DeepDive-2-PermissionsConsent.pdf
+
+
     On Demand for WEWC467_
 
 .. _WEWC467 : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
