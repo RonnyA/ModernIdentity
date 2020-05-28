@@ -63,3 +63,30 @@ Download the `presentation`__ that was used in this webinar.
     On Demand for WEWC467_
 
 .. _WEWC467 : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
+
+
+#3 Accessing and protecting API’s - Week 22
+-------------------------------------------
+
+In this deep dive webinar series for developers we look how you can create a more advanced application where identity flows from the clients towards your REST APIs. This allows to secure REST API with Azure AD authentication and allows you to create proper cloud ready authorization inside your APIs.
+
+Agenda:
+
+* Authentication versus Authorization
+* Protecting an API with Azure AD 
+* Use and Validation of Access Tokens 
+* Authorize User versus your App with Delegated and Application Permissions
+* Flowing identity thru Multiple APIs 
+* Delegation access management to your customers with Roles and Groups
+* Q&A
+
+WEWC586 Thursday May 28th 14:00-15:00
+
+Download the `presentation`__ that was used in this webinar.
+
+.. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/DeepDive-3-AccessingProtecting.pdf
+
+On Demand will be available here soon
+
+
+.. _WEWC586 : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 

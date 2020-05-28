@@ -27,10 +27,6 @@ The program consists of two main parts
 
 
 * Sign up for upcomming deep dive webinars 
-   
-      #3 - Accessing and protecting API’s -  WEWC586 Thursday May 28th 14:00-15:00
-
-       Sign up here https://www.microsoftevents.com/profile/10619025  
 
       #4 -  Authorization - WEWC589 Thursday June 4th 14:00-15:00
 
