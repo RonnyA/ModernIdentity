@@ -16,3 +16,9 @@ OAuth 2.0 and OpenID Connect protocols on the Microsoft identity platform
 https://docs.microsoft.com/nb-no/azure/active-directory/develop/active-directory-v2-protocols
 
 
+Microsoft identity platform authentication libraries
+----------------------------------------------------
+
+* The Microsoft identity platform endpoint supports the industry-standard OAuth 2.0 and OpenID Connect 1.0 protocols. The Microsoft Authentication Library (MSAL) is designed to work with the Microsoft identity platform endpoint. You can also use open-source libraries that support OAuth 2.0 and OpenID Connect 1.0.
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-v2-libraries
