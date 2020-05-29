@@ -86,7 +86,7 @@ Download the `presentation`__ that was used in this webinar.
 
 .. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/DeepDive-3-AccessingProtecting.pdf
 
-On Demand will be available here soon
+On Demand for WEWC586_
 
 
-.. _WEWC586 : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
+.. _WEWC586 : https://portal.meets4b.com/Join?e=55c00627-19ad-486c-8953-e78e62e919a1
