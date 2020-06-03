@@ -1,26 +1,6 @@
 Upcoming webinars
 =================
 
-#3 Accessing and protecting API’s - Week 22
--------------------------------------------
-
-In this deep dive webinar series for developers we look how you can create a more advanced application where identity flows from the clients towards your REST APIs. This allows to secure REST API with Azure AD authentication and allows you to create proper cloud ready authorization inside your APIs.
-
-Agenda:
-
-* Authentication versus Authorization
-* Protecting an API with Azure AD 
-* Use and Validation of Access Tokens 
-* Authorize User versus your App with Delegated and Application Permissions
-* Flowing identity thru Multiple APIs 
-* Delegation access management to your customers with Roles and Groups
-* Q&A
-
-
-WEWC586 Thursday May 28th 14:00-15:00
-
-    Sign up here https://www.microsoftevents.com/profile/10619025  
-
 
 #4 Authorization  - Week 23
 ---------------------------
@@ -35,9 +15,12 @@ Agenda:
 
 
 
-WEWC589 Thursday June 4th 14:00-15:00
+Thursday June 11th 14:00-15:00
 
-    Sign up here https://www.microsoftevents.com/profile/10801900  
+Sign up here *LINK WILL BE HERE SHORTLY*
+
+    
+.. __ : https://www.microsoftevents.com/profile/10801900  
 
 
 #5 Azure Active Directory B2C - Week 24
@@ -56,9 +39,13 @@ Agenda:
 * Q&A
 
 
-WEWC593 Thursday June 11th 14:00-15:00
+Thursday June 18th 14:00-15:00
 
-    Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
+Sign up here *LINK WILL BE HERE SHORTLY*
+
+    Sign up here
+    
+.. __ :  https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
 
 
 
@@ -76,7 +63,9 @@ Agenda:
 * Q&A
 
 
-WEWC590 Thursday June 18th 14:00-15:00
+Thursday June 25th 14:00-15:00
 
-    Sign up here https://www.microsoftevents.com/profile/10815352 
+Sign up here *LINK WILL BE HERE SHORTLY*
+
+.. __ : https://www.microsoftevents.com/profile/10815352 
 

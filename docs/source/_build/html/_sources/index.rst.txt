@@ -12,6 +12,9 @@ Welcome to the home page of this training program for developers.
 
 The program consists of two main parts
 
+
+.. tip:: Because of technical issues Deep Dive 4 to 6 needs to be moved back 1 week. New sign up links will be available shortly.
+
 * Introduction Webinars
 
    For presentations and On Demand for the introduction webinar, see under :doc:`Introduction - Webinars held <intro/held-webinars>`
@@ -28,17 +31,17 @@ The program consists of two main parts
 
 * Sign up for upcomming deep dive webinars 
 
-      #4 -  Authorization - WEWC589 Thursday June 4th 14:00-15:00
+      #4 -  Authorization - WEWC589 Thursday June 11th 14:00-15:00
+             
+       Sign up here *LINK WILL BE HERE*
 
-       Sign up here https://www.microsoftevents.com/profile/10801900  
+      #5 - Azure Active Directory B2C - WEWC593 Thursday June 18th 14:00-15:00
+       
+       Sign up here *LINK WILL BE HERE*
 
-      #5 - Azure Active Directory B2C - WEWC593 Thursday June 11th 14:00-15:00
+      #6 - Best practices for securing your services -Thursday June 25th 14:00-15:00
 
-       Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
-
-      #6 - Best practices for securing your services - WEWC590 Thursday June 18th 14:00-15:00
-
-       Sign up here https://www.microsoftevents.com/profile/10815352 
+       Sign up here *LINK WILL BE HERE*
 
 
  * More information:
