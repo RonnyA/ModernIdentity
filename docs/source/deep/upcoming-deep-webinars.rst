@@ -17,10 +17,9 @@ Agenda:
 
 Thursday June 11th 14:00-15:00
 
-Sign up here *LINK WILL BE HERE SHORTLY*
+Sign up for WEWC589_ #4 Authorization
 
-    
-.. __ : https://www.microsoftevents.com/profile/10801900  
+.. _WEWC589 : https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x11030964abcd
 
 
 #5 Azure Active Directory B2C - Week 24
@@ -41,11 +40,11 @@ Agenda:
 
 Thursday June 18th 14:00-15:00
 
-Sign up here *LINK WILL BE HERE SHORTLY*
 
-    Sign up here
-    
-.. __ :  https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
+Sign up for WEWC593_ #5 Azure Active Directory B2C
+
+.. _WEWC593 : https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x11030964abcd
+
 
 
 
@@ -65,7 +64,7 @@ Agenda:
 
 Thursday June 25th 14:00-15:00
 
-Sign up here *LINK WILL BE HERE SHORTLY*
+Sign up for WEWC590_ #6 Best practices for securing your services
 
-.. __ : https://www.microsoftevents.com/profile/10815352 
+.. _WEWC590 : https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10815352abcd
 
