@@ -90,3 +90,29 @@ On Demand for WEWC586_
 
 
 .. _WEWC586 : https://portal.meets4b.com/Join?e=55c00627-19ad-486c-8953-e78e62e919a1
+
+
+#4 Authorization 
+----------------
+
+In this deep dive webinar series for developers we look at  how to authorized access to your Applications and API based on the signed in User, where you customer can control the required access. Using AppRoles and Groups you can delegate the user management to your customers Azure AD Tenants Administrators and allow your Application and API to rely on roles based access.
+
+Agenda:
+
+* App Roles and Groups
+* Introduction to coding exercise
+* Q&A
+
+
+
+WEWC589 Thursday June 11th 14:00-15:00
+
+
+Download the `presentation`__ that was used in this webinar.
+
+.. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/DeepDive-4-Authorization.pdf
+
+
+On Demand for WEWC589_
+
+.. _WEWC589 : https://portal.meets4b.com/Join?e=0a51844c-4196-442e-a907-e775d8efde27 

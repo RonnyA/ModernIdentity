@@ -31,10 +31,6 @@ The program consists of two main parts
 
 * Sign up for upcomming deep dive webinars 
 
-      #4 -  Authorization - WEWC589 Thursday June 11th 14:00-15:00
-             
-       Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x11030964abcd
-
       #5 - Azure Active Directory B2C - WEWC593 Thursday June 18th 14:00-15:00
        
        Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd

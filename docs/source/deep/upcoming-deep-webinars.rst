@@ -2,25 +2,6 @@ Upcoming webinars
 =================
 
 
-#4 Authorization  - Week 23
----------------------------
-
-In this deep dive webinar series for developers we look at  how to authorized access to your Applications and API based on the signed in User, where you customer can control the required access. Using AppRoles and Groups you can delegate the user management to your customers Azure AD Tenants Administrators and allow your Application and API to rely on roles based access.
-
-Agenda:
-
-* App Roles and Groups
-* Introduction to coding exercise
-* Q&A
-
-
-
-Thursday June 11th 14:00-15:00
-
-Sign up for WEWC589_ #4 Authorization
-
-.. _WEWC589 : https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x11030964abcd
-
 
 #5 Azure Active Directory B2C - Week 24
 ---------------------------------------
