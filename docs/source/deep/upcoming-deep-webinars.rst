@@ -24,7 +24,7 @@ Thursday June 18th 14:00-15:00
 
 Sign up for WEWC593_ #5 Azure Active Directory B2C
 
-.. _WEWC593 : https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x11030964abcd
+.. _WEWC593 : https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10790576abcd
 
 
 
