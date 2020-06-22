@@ -116,3 +116,31 @@ Download the `presentation`__ that was used in this webinar.
 On Demand for WEWC589_
 
 .. _WEWC589 : https://portal.meets4b.com/Join?e=0a51844c-4196-442e-a907-e775d8efde27 
+
+
+#5 Azure Active Directory B2C - Week 24
+---------------------------------------
+
+In this deep dive webinar series for developers we look at B2C to allow to create a authentication solution that is agnostic to the identity providers of your customers. Azure B2C allows you to develop a solution that allows Social Media accounts (Google, Facebook, LinkedIn, MSA, etc) and Enterprise Accounts (Azure AD, SalesForce, etc) to authenticate in your application in a seamless manner and have total control on the login experience.
+
+
+Agenda:
+
+* Introduction to B2C
+* Authenticate with Social Media Account and Business Accounts to your application
+* Adding custom IDP to B2C using policies
+* Customizing the login experience with custom layouts and login flows
+* Introduction to coding exercise
+* Q&A
+
+
+Thursday June 18th 14:00-15:00
+
+Download the `presentation`__ that was used in this webinar.
+
+.. __ : https://github.com/RonnyA/ModernIdentity/raw/master/pdf/DeepDive-5-AADB2C.pdf
+
+
+On Demand for WEWC593_
+
+.. _WEWC593 : https://meetings.lm-ag.de/Join?e=c8421fd3-2648-474a-8083-68dddfaa83db 
