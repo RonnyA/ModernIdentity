@@ -25,7 +25,6 @@ The program consists of two main parts
 .. __ : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
 
 
-
 * Sign up for upcomming deep dive webinars 
 
       #6 - Best practices for securing your services -Thursday June 25th 14:00-15:00
