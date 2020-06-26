@@ -22,20 +22,6 @@ The program consists of two main parts
    For presentations and On Demand for the Deep dive webinars, see under :doc:`Deep Dive - Webinars held <deep/held-deep-webinars>`
       
 
-.. __ : https://portal.meets4b.com/Join?e=d83d0ce7-a04b-4632-8efa-a0115e749071 
-
-
-* Sign up for upcomming deep dive webinars 
-
-      #6 - Best practices for securing your services -Thursday June 25th 14:00-15:00
-
-       Sign up here https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x10815352abcd
-
-
- * More information:
-
-       :doc:`Upcoming webinars <deep/upcoming-deep-webinars>`
-
 
 The first goal of this program is to make you able to understand the difference between the identity services Microsoft offer so you can choose the correct for you. The alternatives are
 
