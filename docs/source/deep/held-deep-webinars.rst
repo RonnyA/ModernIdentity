@@ -171,5 +171,5 @@ Download the `presentation`__ that was used in this webinar.
 
 On Demand for WEWC590_
 
-.. WEWC590_ : https://portal.meets4b.com/Join?e=dec6b6c7-e1f8-4aca-997e-d8e4cf7e75c0 
+.. _WEWC590 : https://portal.meets4b.com/Join?e=dec6b6c7-e1f8-4aca-997e-d8e4cf7e75c0 
 
